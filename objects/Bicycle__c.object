@@ -185,6 +185,11 @@
                     <default>false</default>
                     <label>Tandem</label>
                 </value>
+                <value>
+                    <fullName>Hybrid</fullName>
+                    <default>false</default>
+                    <label>Hybrid</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
